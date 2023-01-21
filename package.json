@@ -21,6 +21,9 @@
 		"vite": "^4.0.0",
 		"vitest": "^0.25.3"
 	},
+	"peerDependencies": {
+		"svelte": "^3.54.0"
+	},
 	"type": "module",
 	"keywords": [
 		"svelte",
