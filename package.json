@@ -1,6 +1,6 @@
 {
 	"name": "svelte-inversify",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "svelte-kit sync && svelte-package",
@@ -25,6 +25,10 @@
 		"svelte": "^3.54.0"
 	},
 	"type": "module",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/KaSSaaaa/svelte-inversify.git"
+	},
 	"keywords": [
 		"svelte",
 		"inversify"
